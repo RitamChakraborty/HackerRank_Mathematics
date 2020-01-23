@@ -3,6 +3,7 @@
 ## Fundamentals
 - [Find the Point](https://www.hackerrank.com/challenges/find-point/problem)
 - [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)
+- [Handshakes](https://www.hackerrank.com/challenges/handshake/problem)
 
 ## Number Theory
 
