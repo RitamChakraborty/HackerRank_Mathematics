@@ -5,6 +5,7 @@
 - [Maximum Draws](https://www.hackerrank.com/challenges/maximum-draws/problem)
 - [Handshakes](https://www.hackerrank.com/challenges/handshake/problem)
 - [Minimum Height Triangle](https://www.hackerrank.com/challenges/lowest-triangle/problem)
+- [Army Game](https://www.hackerrank.com/challenges/game-with-cells/problem)
 
 ## Number Theory
 
